@@ -1,8 +1,0 @@
-Introduction
-Figure to Reproduce 
-Materials and Methods 
-Results 
-Discussion 
-Conclusion 
-pandoc -o README.pdf REDME.md
-
