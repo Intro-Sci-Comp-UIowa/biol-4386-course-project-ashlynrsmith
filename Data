@@ -46,4 +46,18 @@ Belin Blank Center
 sample was 116.9 (SD of 14.5), the median was 117
  
  ABCD 
- -Release 3 data were used, CBCL data was available on 11,878 children. Z-scaled NIH toolbox full composite scores were the proxy used for IQ in this cohort, and these scores were available for 4,999 children.
+ -Release 3 data were used, CBCL data was available on 11,878 children. Z-scaled NIH toolbox full composite scores were the proxy used for IQ in this cohort, and these scores were available for 4,999 children
+ 
+ Data for recreation of figure 
+ asd_d~1 depre~2 anxie~3 somat~4 adhd_~5 oppos~6 condu~7 total~8 total~9
+   <chr> <chr>     <int>   <int>   <int>   <int>   <int>   <int>   <int>   <int>
+ 1 SP01~ ASD          14       6       5      12       8       7      38     224
+ 2 SP01~ ASD           2       4       4       9       5       1      23     132
+ 3 SP00~ ASD          14      13       4      14      10      11      52     298
+ 4 SP00~ ASD          12      13       7      14       2       3      39     203
+ 5 SP02~ ASD           5       5       0      10       5       7      27     144
+ 6 SP00~ ASD           7      10       3       3       3       1      20     126
+ 7 SP00~ ASD           5       6       1      14       9      15      45     231
+ 8 SP00~ ASD           7       9       2      11       4       2      28     189
+ 9 SP00~ ASD           1       2       0       3       2       5      12      63
+10 SP00~ ASD           2       4       2       9       6       3      24     111
