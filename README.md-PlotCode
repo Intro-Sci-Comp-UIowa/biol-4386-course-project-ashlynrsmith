@@ -39,3 +39,5 @@ ylab('DSM depressive score (CBCL)') +
  dir.create('/Dedicated/jmichaelson-wdata/asmith')
  plot_boxplot %>%
 ggsave(file = '/Dedicated/jmichaelson-wdata/asmith/figure1C_recreation.png', device = 'png', dpi = 300, height = 6, width = 6, units = 'in')
+computing_plot <- computing_plot + ggtitle("Comparison of individual's scores on the CBCL’s DSM depressive scale")
+print(computing_plot)
